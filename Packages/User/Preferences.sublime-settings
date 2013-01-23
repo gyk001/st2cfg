@@ -1,0 +1,24 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Made of Code.tmTheme",
+	"ignored_packages": [],
+	// "font_face": "Consolas",
+	"font_size": 14,
+	// 针对OS X
+	"open_files_in_new_window": true,
+	// Set to true to close windows as soon as the last file is closed, unless
+	// there’s a folder open within the window. This is always enabled on OS X,
+	// changing it here won’t modify the behavior.
+	// 针对OS X
+	"close_windows_when_empty": true,
+	// 哪些文件会被显示到边栏上
+	// folder_exclude_patterns and file_exclude_patterns control which files
+	// are listed in folders on the side bar. These can also be set on a per-
+	// project basis.
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS"],
+	"file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj", "*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db"],
+	// These files will still show up in the side bar, but won’t be included in
+	// Goto Anything or Find in Files
+	"binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip"],
+	// 选中的文本按Ctrl + f时，自动复制到查找面板的文本框里
+	"find_selected_text": true
+}

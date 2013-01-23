@@ -1,0 +1,11 @@
+{
+	"extensions": [ "md" ] ,
+	"scroll_past_end": true,
+	"highlight_line": false,
+	// add trailing #'s to headlines
+	"match_header_hashes": true,
+	"color_scheme": "Packages/Color Scheme - Default/Made of Code.tmTheme",
+	"word_wrap": true,
+	"wrap_width": 70,
+	"draw_centered": true
+}
