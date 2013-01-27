@@ -45,7 +45,9 @@
 		".svn",
 		".git",
 		".hg",
-		"CVS"
+		"CVS",
+		".sass-cache",
+		".pygments-cache"
 	],
 	"font_size": 14,
 	"ignored_packages":
