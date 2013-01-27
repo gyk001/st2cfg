@@ -2,11 +2,14 @@
 	"installed_packages":
 	[
 		"BracketHighlighter",
+		"ColorPick",
 		"Default File Type",
 		"DocBlockr",
+		"jQuery",
 		"JsFormat",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"Octopress",
 		"Package Control",
 		"Pretty JSON",
 		"SideBarEnhancements",
