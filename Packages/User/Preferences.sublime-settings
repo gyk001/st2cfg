@@ -17,6 +17,7 @@
 	],
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/Color Scheme - Default/Made of Code.tmTheme",
+	"theme": "Guo.sublime-theme",
 	"file_exclude_patterns":
 	[
 		"*.pyc",
